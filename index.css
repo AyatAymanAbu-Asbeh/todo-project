@@ -1,0 +1,57 @@
+header{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    margin: auto;
+    background-color: #FCC8D1;
+    
+    }
+    header ul{
+        display:contents;
+       
+        gap: 79px;
+    }
+    header ul li{
+        list-style-type:circle;
+        text-decoration:underline;
+        
+    }
+    header ul il a{
+        text-decoration:underline;
+        
+    }
+     table td {
+        
+        border:solid;
+        border-color:black;
+        font-stretch: extra-condensed;
+        
+    align-items: center;
+        align-self: center;
+    }
+    table{
+        border:solid;
+       /* border-collapse: collapse;*/
+       width: 600px;;
+       margin:auto;
+       height: 200px;
+    }
+    table thead{
+
+        background-color:#FCC8D1;
+    }
+    /*table tbody{
+        background-color:#E4D0D0 ;
+    }*/
+   
+    
+    footer{
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        justify-content: center;
+        text-align: center;
+        background-color: #FCC8D1;
+    }
+
+   
